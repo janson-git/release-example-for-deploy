@@ -3,7 +3,7 @@ This is example repository to demonstrate release branch workflow
 
 Used to demonstrate workflow of https://github.com/janson-git/deploy
 
-This is MAIN branch README.md file.
+This is README.md file of MAIN branch!
 
 It contains some example text that will change in other `feature-branches`
 
