@@ -8,3 +8,5 @@ This is MAIN branch README.md file.
 It contains some example text that will change in other `feature-branches`
 
 Let's check how it works!
+
+example_branch_3 just add the text. I hope it happened without conflicts.
