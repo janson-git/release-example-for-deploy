@@ -1,7 +1,7 @@
 # release-example-for-deploy
 This is example repository to demonstrate release branch workflow
 
-Used to demonstrate workflow of https://github.com/janson-git/deploy
+Used to demonstrate workflow of https://github.com/janson-git/release-builder
 
 This is MAIN branch README.md file.
 
